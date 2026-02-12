@@ -1,6 +1,6 @@
 # 📊 Hey there, I’m Sara Şahin
 
-## j **Turning raw data into stories that *slap* 🚀**  
+##  **Turning raw data into stories that *slap* 🚀**  
 
 👩‍💻 **Data Analyst** | **Business Strategist** | **Code Enthusiast**  
 📍 Based in Istanbul, Turkey | 🌎 Working globally  
@@ -63,8 +63,8 @@ And yes, I write code cleaner than a freshly washed dataset.
 
 ## 📬 Reach Out and Let’s Analyze Together  
 
-- 🌐 **LinkedIn:** [Nour Elhuda Haidar](https://www.linkedin.com/in/nourelhudahaidar/)  
-- ✉️ **Email:** <nour.elhuda.haidar@gmail.com>  
+- 🌐 **LinkedIn:** [Sara Şahin](https://www.linkedin.com/in/sara11shahin/)  
+- ✉️ **Email:** <sarasahin714@gmail.com>  
 
 ✨ Fun fact: Some patterns only reveal themselves to those who know where to look.  
 
