@@ -1,7 +1,6 @@
 # 📊 Hey there, I’m Sara Şahin
 
-##  **Turning raw data into stories that *slap* 🚀**  
-
+## **Turning raw data into stories that *slap* 🚀**  
 👩‍💻 **Data Analyst** | **Business Strategist** | **Code Enthusiast**  
 📍 Based in Istanbul, Turkey | 🌎 Working globally  
 
