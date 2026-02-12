@@ -1,4 +1,4 @@
-# 📊 Hey there, I’m Nour Elhuda Haidar
+# 📊 Hey there, I’m Sara Şahin
 
 ## j **Turning raw data into stories that *slap* 🚀**  
 
